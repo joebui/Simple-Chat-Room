@@ -1,3 +1,3 @@
 Simple-Chat-Room
 ================
-A chat room created by Jetbrain IntelliJ (Java)
+This program is created by IntelliJ
